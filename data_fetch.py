@@ -17,7 +17,7 @@ README_FILE = "README.md"
 # ============================================
 # SMALL CAP STOCKS (251-1500 by Market Cap)
 # ============================================
-SMALL_CAP_STOCKS = [
+STOCKS = [
     # Nifty Smallcap 250 + Additional stocks
     'AAVAS.NS', 'ACE.NS', 'ADANIENSOL.NS', 'AMBER.NS', 'ANURAS.NS',
     'APPLEINDS.NS', 'ARVINDFASN.NS', 'ASIANHOTNR.NS', 'BAJAJHLDNG.NS', 'BANCOINDIA.NS',
