@@ -18,7 +18,7 @@ README_FILE = "README_v1.md"
 # ============================================
 STOCKS = [
     # Nifty Smallcap 250 + Additional stocks
-    'AAVAS.NS', 'ACE.NS', 'ADANIENSOL.NS', 'AMBER.NS', 'ANURAS.NS',
+    'ABC.NS' , 'AAVAS.NS', 'ACE.NS', 'ADANIENSOL.NS', 'AMBER.NS', 'ANURAS.NS',
     'APPLEINDS.NS', 'ARVINDFASN.NS', 'ASIANHOTNR.NS', 'BAJAJHLDNG.NS', 'BANCOINDIA.NS',
     'BBL.NS', 'BEARDSELL.NS', 'BEPL.NS', 'BHEDADEQP.NS', 'BHUSANSTL.NS',
     'BINDALAGRO.NS', 'CHOLAHLDNG.NS', 'CLEAN.NS', 'COCHIN.NS', 'COCHINSHIP.NS',
