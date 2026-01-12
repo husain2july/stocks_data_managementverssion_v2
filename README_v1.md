@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-12 15:57:38 IST
+Last updated: 2026-01-12 16:22:55 IST
 
 ## AAVAS.NS
 
@@ -54,16 +54,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>319.5</td><td>0</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>320.0</td><td>1499</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>317.0</td><td>241</td></tr>
 </table>
 
 ## BAJAJHLDNG.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>10745.0</td><td>814</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>10740.0</td><td>777</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>10742.0</td><td>566</td></tr>
 </table>
 
 ## BANCOINDIA.NS
@@ -110,8 +110,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>855.0999755859375</td><td>51</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>855.0</td><td>1507</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>855.1500244140625</td><td>1234</td></tr>
 </table>
 
 ## COCHINSHIP.NS
@@ -126,8 +126,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:23:00+05:30</td><td>1.559999942779541</td><td>510</td></tr>
   <tr><td>2026-01-12 15:15:00+05:30</td><td>1.5099999904632568</td><td>0</td></tr>
-  <tr><td>2026-01-12 15:13:00+05:30</td><td>1.5099999904632568</td><td>5</td></tr>
 </table>
 
 ## CONCORDBIO.NS
@@ -150,16 +150,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>7495.5</td><td>193</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>7485.0</td><td>170</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>7487.0</td><td>173</td></tr>
 </table>
 
 ## CREDITACC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>1291.199951171875</td><td>681</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>1293.9000244140625</td><td>3466</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>1288.4000244140625</td><td>2025</td></tr>
 </table>
 
 ## CRISIL.NS
@@ -238,8 +238,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>1142.0</td><td>9</td></tr>
   <tr><td>2026-01-12 15:27:00+05:30</td><td>1146.699951171875</td><td>20</td></tr>
-  <tr><td>2026-01-12 15:17:00+05:30</td><td>1140.5999755859375</td><td>0</td></tr>
 </table>
 
 ## DIAMINESQ.NS
@@ -414,16 +414,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>2573.10009765625</td><td>209</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>2576.699951171875</td><td>161</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>2577.0</td><td>279</td></tr>
 </table>
 
 ## ENERGYDEV.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>18.479999542236328</td><td>1002</td></tr>
   <tr><td>2026-01-12 15:20:00+05:30</td><td>18.5</td><td>467</td></tr>
-  <tr><td>2026-01-12 15:15:00+05:30</td><td>18.5</td><td>0</td></tr>
 </table>
 
 ## ENGINERSIN.NS
@@ -438,24 +438,24 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>1229.0999755859375</td><td>2089</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>1235.0</td><td>2004</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>1231.0</td><td>1592</td></tr>
 </table>
 
 ## EPL.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>206.11000061035156</td><td>1740</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>206.10000610351562</td><td>8132</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>206.41000366210938</td><td>16940</td></tr>
 </table>
 
 ## EQUITASBNK.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>66.55999755859375</td><td>157773</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>66.55999755859375</td><td>33001</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>66.5999984741211</td><td>15463</td></tr>
 </table>
 
 ## ERIS.NS
@@ -494,8 +494,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>907.3499755859375</td><td>205</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>904.5999755859375</td><td>81</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>908.7999877929688</td><td>0</td></tr>
 </table>
 
 ## FCL.NS
@@ -510,16 +510,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>0.4000000059604645</td><td>48927</td></tr>
   <tr><td>2026-01-12 15:27:00+05:30</td><td>0.4000000059604645</td><td>0</td></tr>
-  <tr><td>2026-01-12 15:26:00+05:30</td><td>0.4099999964237213</td><td>16655</td></tr>
 </table>
 
 ## FDC.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>399.04998779296875</td><td>9</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>398.20001220703125</td><td>746</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>398.20001220703125</td><td>1605</td></tr>
 </table>
 
 ## FIEMIND.NS
@@ -534,8 +534,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>46.279998779296875</td><td>3725</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>46.209999084472656</td><td>8575</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>46.33000183105469</td><td>2130</td></tr>
 </table>
 
 ## FINCABLES.NS
@@ -606,8 +606,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>959.0</td><td>840</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>960.5999755859375</td><td>1606</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>961.0</td><td>1861</td></tr>
 </table>
 
 ## GAEL.NS
@@ -758,8 +758,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>2.940000057220459</td><td>492</td></tr>
   <tr><td>2026-01-12 15:26:00+05:30</td><td>3.0</td><td>3901</td></tr>
-  <tr><td>2026-01-12 15:25:00+05:30</td><td>2.950000047683716</td><td>0</td></tr>
 </table>
 
 ## GLOBUSSPR.NS
@@ -806,8 +806,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>282.5</td><td>689</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>282.1000061035156</td><td>173</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>282.79998779296875</td><td>247</td></tr>
 </table>
 
 ## GODFRYPHLP.NS
@@ -862,16 +862,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>180.64999389648438</td><td>8668</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>180.30999755859375</td><td>15683</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>180.7899932861328</td><td>11580</td></tr>
 </table>
 
 ## GRAPHITE.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>618.9000244140625</td><td>4057</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>622.75</td><td>2451</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>622.0999755859375</td><td>4265</td></tr>
 </table>
 
 ## GREAVESCOT.NS
@@ -894,8 +894,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>218.49000549316406</td><td>800</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>218.10000610351562</td><td>1247</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>218.3000030517578</td><td>666</td></tr>
 </table>
 
 ## GREENPLY.NS
@@ -926,16 +926,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>173.97999572753906</td><td>3125</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>173.89999389648438</td><td>7783</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>174.00999450683594</td><td>4988</td></tr>
 </table>
 
 ## GSS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>15.630000114440918</td><td>390</td></tr>
   <tr><td>2026-01-12 15:24:00+05:30</td><td>15.470000267028809</td><td>566</td></tr>
-  <tr><td>2026-01-12 15:23:00+05:30</td><td>15.510000228881836</td><td>201</td></tr>
 </table>
 
 ## GTLINFRA.NS
@@ -950,16 +950,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>7.659999847412109</td><td>0</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>7.630000114440918</td><td>175</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>7.699999809265137</td><td>343</td></tr>
 </table>
 
 ## GTPL.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>96.5999984741211</td><td>711</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>96.51000213623047</td><td>29</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>96.7300033569336</td><td>170</td></tr>
 </table>
 
 ## GUFICBIO.NS
@@ -982,8 +982,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>393.0</td><td>0</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>390.0</td><td>500</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>394.0</td><td>665</td></tr>
 </table>
 
 ## GULFOILLUB.NS
@@ -1006,8 +1006,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>2.9800000190734863</td><td>3291</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>2.990000009536743</td><td>159</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>3.0</td><td>31</td></tr>
 </table>
 
 ## HAPPSTMNDS.NS
@@ -1030,8 +1030,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>18.719999313354492</td><td>218504</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>18.81999969482422</td><td>1069142</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>18.75</td><td>314427</td></tr>
 </table>
 
 ## HCG.NS
@@ -1078,8 +1078,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>440.54998779296875</td><td>8712</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>441.29998779296875</td><td>2011</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>441.04998779296875</td><td>1184</td></tr>
 </table>
 
 ## HESTERBIO.NS
@@ -1102,8 +1102,8 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>704.2000122070312</td><td>1720</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>704.6500244140625</td><td>2515</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>704.0999755859375</td><td>740</td></tr>
 </table>
 
 ## HIKAL.NS
@@ -1158,16 +1158,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>85.05000305175781</td><td>27575</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>85.19000244140625</td><td>5480</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>85.38999938964844</td><td>1242</td></tr>
 </table>
 
 ## HITECHCORP.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:28:00+05:30</td><td>161.5399932861328</td><td>27</td></tr>
   <tr><td>2026-01-12 15:25:00+05:30</td><td>161.0500030517578</td><td>2</td></tr>
-  <tr><td>2026-01-12 15:20:00+05:30</td><td>161.0</td><td>23</td></tr>
 </table>
 
 ## HITECHGEAR.NS
@@ -1190,16 +1190,16 @@ Last updated: 2026-01-12 15:57:38 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>66.25</td><td>0</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>66.23999786376953</td><td>220</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>66.25</td><td>259</td></tr>
 </table>
 
 ## HNDFDS.NS
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-12 15:29:00+05:30</td><td>506.95001220703125</td><td>132</td></tr>
   <tr><td>2026-01-12 15:28:00+05:30</td><td>508.0</td><td>827</td></tr>
-  <tr><td>2026-01-12 15:27:00+05:30</td><td>507.0</td><td>267</td></tr>
 </table>
 
 ## HPL.NS
