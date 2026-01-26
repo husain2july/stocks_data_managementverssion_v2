@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-20 10:08:23 IST
+Last updated: 2026-01-26 10:20:22 IST
 
 ## AAVAS.NS
 
